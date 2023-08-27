@@ -1,0 +1,11 @@
+*.log
+*.spoiler.*
+*.pyc
+*.psd
+*.pdf
+*.pptx
+hosts
+
+VM/*
+reviewer_feedback/*
+documentation/*
