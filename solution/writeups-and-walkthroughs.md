@@ -22,6 +22,6 @@ I am grateful that many community members have tried the room and documented the
 * 📹 cah – [TryHackMe Forgotten Implant Walkthrough - C2 Server, phpMyAdmin, Chisel](https://www.youtube.com/watch?v=YSRHAma9ZCA)
 * 📹 S3R43o3 – [|~S3R43o3~| @ TryHackMe: Forgotten Implant - [Walkthrough]](https://www.youtube.com/watch?v=15WllkTY2EU)
 * 📹 Adamski CTF – [TryHackMe #616 Forgotten Implant](https://www.youtube.com/watch?v=PWkBDGsxiIg)
-* 📹 Calamity info – [TryHackMe (Forgotten Implant) BY TAKEO (speedrun)](https://www.youtube.com/watch?v=zKEJWfVPk84)
+* 📹 Calamity info / TAKEO – [TryHackMe (Forgotten Implant) BY TAKEO (speedrun)](https://www.youtube.com/watch?v=zKEJWfVPk84)
 
 If your writeup or walkthrough is not listed here, please feel free to get in touch!
