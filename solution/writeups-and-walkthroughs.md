@@ -4,7 +4,7 @@ I have written an 📄 [official walkthrough](https://github.com/IngoKl/THM-Forg
 
 ## Community
 
-*As of October 2nd, 2023.*
+*As of November 5th, 2023.*
 
 I am grateful that many community members have tried the room and documented their journey. Here, I am trying to list as many of the writeups and walkthroughs as possible.
 
@@ -23,5 +23,6 @@ I am grateful that many community members have tried the room and documented the
 * 📹 S3R43o3 – [|~S3R43o3~| @ TryHackMe: Forgotten Implant - [Walkthrough]](https://www.youtube.com/watch?v=15WllkTY2EU)
 * 📹 Adamski CTF – [TryHackMe #616 Forgotten Implant](https://www.youtube.com/watch?v=PWkBDGsxiIg)
 * 📹 Calamity info / TAKEO – [TryHackMe (Forgotten Implant) BY TAKEO (speedrun)](https://www.youtube.com/watch?v=zKEJWfVPk84)
+* 📹 ConstantMess@Mess – [Forgotten Implant TryHackMe](https://www.youtube.com/watch?v=llmrPEtgHPg)
 
 If your writeup or walkthrough is not listed here, please feel free to get in touch!
